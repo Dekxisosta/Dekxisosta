@@ -1,8 +1,7 @@
 # $$\color{magenta} Tittle$$
 
-  
+![Tux, the Linux mascot](/assets/images/tux.png)
  # 🪻NAME: Nel Xedrik Lepiten Ariscon
-
 
 🪻ALIAS: Dekxi Isosta / Miyuacchiii
 
