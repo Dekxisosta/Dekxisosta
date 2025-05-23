@@ -1,6 +1,6 @@
-# $$\color{magenta} Tittle$$
+<h1><span style="color: rgb(123, 45, 200);">Title</span></h1>
 
-![Tux, the Linux mascot](/assets/images/tux.png)
+![Hatsune Miku](/miku.gif)
  # 🪻NAME: Nel Xedrik Lepiten Ariscon
 
 🪻ALIAS: Dekxi Isosta / Miyuacchiii
