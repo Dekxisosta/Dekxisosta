@@ -1,5 +1,3 @@
-<h1><span style="color: rgb(123, 45, 200);">Title</span></h1>
-
 ![Hatsune Miku](/miku.gif)
 
 # 🪻Dekxi Isosta / Miyuacchiii
