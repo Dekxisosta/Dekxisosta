@@ -1,4 +1,4 @@
-<h1 style="color: black;">
+<h1 style="color:blue !important">
   🪻NAME: Nel Xedrik Lepiten Ariscon
 </h1>
 
