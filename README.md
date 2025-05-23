@@ -1,11 +1,21 @@
-My name is Nel Xedrik Lepiten Ariscon. I refer to myself as Dekxi due to the light-hearted
-themes I often use in my projects
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🪻NAME: Nel Xedrik Lepiten Ariscon
+🪻ALIAS: Dekxi Isosta / Miyuacchiii
+
+🪻JOB PROSPECTS
+- Graphic Designer - canva, gimp
+- UI/UX Designer - figma, spline, etc.
+- Game Developer - roblox studio
+- Illustration Artist - clip studio paint, ibis paint
+- Web Developer
+- 3D Model Artist - blender
+
+🪻PROGRAMMING LANGUAGES
+- HTML
+- CSS
+- JAVASCRIPT
+- JAVA
+- LUAU
+- PYTHON
 
 <!---
 Dekxisosta/Dekxisosta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
