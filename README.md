@@ -1,6 +1,6 @@
-<h1 style="color:blue !important">
-  🪻NAME: Nel Xedrik Lepiten Ariscon
-</h1>
+
+ ### 🪻NAME: Nel Xedrik Lepiten Ariscon
+
 
 🪻ALIAS: Dekxi Isosta / Miyuacchiii
 
