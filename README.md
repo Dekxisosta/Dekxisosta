@@ -17,7 +17,7 @@
     <td style="border: 0;">
         <img src="./yt.png" width="50">
         <br>
-        <img src="./azurlane_unicorn-crop.gif" width="50">
+        <img src="./azurlane_unicorn-cropped.gif" width="50">
         <br>
         <img src="./azurlane_laffey-crop.gif" width="50">
     </td>
