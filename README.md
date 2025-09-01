@@ -2,15 +2,14 @@
   <tr style="border: 0;"> 
     <td style="border: 0;" rowspan ="2">
         <div style="position: relative; width: 200px; height: 200px;">
-            <img src="azurlane_unicorn.gif" >
-            <img src="./azurlane_laffey.gif" >
+            <img src="./azurlane_laffey.gif" width="200">
         </div>
     </td>
   </tr>
   <tr>
     <td style="border: 0;">
-      <h1>DEKXISOSTA GITHUB BANNER</h1>
-      <h6>プログラミング || デザイン || ゲームデベロッパー</h6>
+      <h1>DEKXISOSTA GITHUB</h1>
+      <h6>プログラミング : デザイン : ゲームデベロッパー</h6>
     </td>
   </tr>
 </table>
