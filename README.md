@@ -1,21 +1,18 @@
-<table>
+<table style="border: 0; z-index=2;">
+  <tr style="border: 0;"> 
+    <td style="border: 0;" rowspan ="2">
+        <div style="position: relative; width: 200px; height: 200px;">
+            <img src="azurlane_unicorn.gif" 
+                style="position: absolute; top: 0; left: 0; z-index: 1;" width="150">
+            <img src="./azurlane_laffey.gif" 
+                style="position: absolute; top: 30px; left: 30px; z-index: 2;" width="150">
+        </div>
+    </td>
+  </tr>
   <tr>
     <td style="border: 0;">
-      <img src="./azurlane_unicorn.gif" width="300">
-    </td>
-    <td style="border: 0;" colspan="2">
-      <h1>DEKXISOSTA</h1>
-      <h6>Hobbyist Programmer</h6>
+      <h1>DEKXISOSTA PROGRAMMING CORPS</h1>
+      <h6>プログラミング || デザイン || ゲームデベロッパー</h6>
     </td>
   </tr>
 </table>
-| header 1 | header 2 | header 3 |
-| ---      | ---      | ---      |
-| cell 1   | cell 2   | cell 3   |
-| cell 4 | cell 5 is longer | cell 6 is much longer than the others, but that's ok. It eventually wraps the text when the cell is too large for the display size. |
-| cell 7   |          | cell 9   |
-
-<!---
-Dekxisosta/Dekxisosta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
