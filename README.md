@@ -25,5 +25,11 @@
 </table>
 
 ```lua
-𝗮𝘀𝘀𝗲𝗿𝘁(isSilly, "I am " .. self.Action[math.random(1, #self.Action)])
+--Currently learning Luau
+function Dekxi.new(isSilly : boolean) : Dekxi
+    local self = setmetatable({}, Dekxi)
+    self.Actions = {"coding", "designing", "developing"}
+    𝗮𝘀𝘀𝗲𝗿𝘁(not isSilly, "I am " .. tostring(self.Actions[math.random(1, #self.Actions)]))
+    return self
+end
 ```
