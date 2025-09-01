@@ -1,7 +1,7 @@
 <table style="border: 0;">
   <tr style="border: 0;"> 
     <td style="border: 0;" rowspan ="3">
-        <img src="./banner.png" width="500">
+        <a><img src="./banner.png" width="500"></a>
     </td>
     <td style="border: 0;">
         <h1>DEKXISOSTA <br> GITHUB</h1>
@@ -17,9 +17,9 @@
     <td style="border: 0;">
         <a href="https://www.youtube.com/@Rroquxii"><img src="./youtube.png" width="50"></a>
         <br>
-        <img src="./azurlane_unicorn-cropped.gif" width="50">
+        <a><img src="./azurlane_unicorn-cropped.gif" width="50"></a>
         <br>
-        <img src="./azurlane_laffey-crop.gif" width="50">
+        <a><img src="./azurlane_laffey-crop.gif" width="50"></a>
     </td>
   </tr>
 </table>
