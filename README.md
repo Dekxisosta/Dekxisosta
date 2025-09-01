@@ -1,11 +1,11 @@
 <table>
   <tr>
     <td>
-      ![Unicorn](azurlane-unicorn.gif)
+      ![Unicorn](azurlane_unicorn.gif)
     </td>
     <td>
-      <h3>Some Title</h3>
-      <p>This is text on the right side of the image.</p>
+      <h1>DEKXISOSTA</h1>
+      <h6>Hobbyist Programmer</h6>
     </td>
   </tr>
 </table>
