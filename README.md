@@ -1,7 +1,11 @@
 <table>
   <tr>
     <td>
-      ![Unicorn](/azurlane_unicorn.gif)
+      <img src="./azurlane_unicorn.gif" width="150">
+    </td>
+    <td>
+      <h1>DEKXISOSTA</h1>
+      <h6>Hobbyist Programmer</h6>
     </td>
     <td>
       <h1>DEKXISOSTA</h1>
