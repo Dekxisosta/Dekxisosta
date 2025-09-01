@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://via.placeholder.com/150" width="150"/>
+      ![Unicorn](azurlane-unicorn.gif)
     </td>
     <td>
       <h3>Some Title</h3>
