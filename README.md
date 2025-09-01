@@ -9,7 +9,11 @@
   <tr>
     <td style="border: 0;">
       <h1>DEKXISOSTA GITHUB</h1>
-      <h6>プログラミング : デザイン : ゲームデベロッパー</h6>
+      <h6>PROGRAM / UI / GAME DEV </h6>
     </td>
   </tr>
 </table>
+
+```lua
+𝗮𝘀𝘀𝗲𝗿𝘁(isSilly, "I am " .. self.Action[math.random(1, #self.Action)])
+```
