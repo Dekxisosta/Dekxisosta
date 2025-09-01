@@ -10,12 +10,14 @@
     <td style="border: 0;">
         <img src="./discord.png" width="50">
         <br>
+        <h6></h6>
         <br>
         <img src="./x.png" width="50">
     </td>
     <td style="border: 0;">
         <img src="./yt.png" width="50">
         <br>
+        <h6></h6>
         <br>
         <img src="./azurlane_laffey-crop.gif" width="50">
     </td>
