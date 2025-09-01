@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td>
-      ![Unicorn](azurlane_unicorn.gif)
+      ![Unicorn](/azurlane_unicorn.gif)
     </td>
     <td>
       <h1>DEKXISOSTA</h1>
