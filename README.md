@@ -1,9 +1,9 @@
 <table>
   <tr>
-    <td style="border: none;">
+    <td style="border: 0;">
       <img src="./azurlane_unicorn.gif" width="300">
     </td>
-    <td style="border: none;" colspan="2">
+    <td style="border: 0;" colspan="2">
       <h1>DEKXISOSTA</h1>
       <h6>Hobbyist Programmer</h6>
     </td>
