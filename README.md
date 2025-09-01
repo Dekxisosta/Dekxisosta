@@ -1,13 +1,9 @@
 <table>
   <tr>
     <td>
-      <img src="./azurlane_unicorn.gif" width="150">
+      <img src="./azurlane_unicorn.gif" width="300">
     </td>
-    <td>
-      <h1>DEKXISOSTA</h1>
-      <h6>Hobbyist Programmer</h6>
-    </td>
-    <td>
+    <td colspan="2">
       <h1>DEKXISOSTA</h1>
       <h6>Hobbyist Programmer</h6>
     </td>
