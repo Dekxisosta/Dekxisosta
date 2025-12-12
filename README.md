@@ -1,30 +1,34 @@
+<p align="center">
+  <img src="./37-banner.jpg" alt="Banner">
+</p>
+
+---
+
 <table align="center">
-  <tr> 
+  <tr>
     <td>
-        <a><img src="./banner.png" width="500"></a>
+      <h3 align="center">
+        "With my code, <br>
+        I will carve a better world.<br>
+        This is my dream."<br>
+        — dekxi
+      </h3>
     </td>
     <td>
-        <h1>DEKXISOSTA <br> GITHUB</h1>
-        <h6>PROGRAM / UI DESIGN / GAME <br> DEVELOPMENT </h6>
-    </td>
-    <td>
-        <a href="https://www.discord.com"><img src="./discord.png" width="50"></a>
-        <br>
-        <a href="https://www.linkedin.com"><img src="./linkedin.png" width="50"></a>
-        <br>
-        <a href="https://www.x.com/dekxisosta"><img src="./x.png" width="50"></a>
-    </td>
-    <td>
-        <a href="https://www.youtube.com/@Rroquxii"><img src="./youtube.png" width="50"></a>
-        <br>
-        <a><img src="./azurlane_unicorn-cropped.gif" width="50"></a>
-        <br>
-        <a><img src="./azurlane_laffey-crop.gif" width="50"></a>
+      <p>
+        <strong> 🪻 OTHER SKILLSETS </strong><br>
+        => 2D Sketching, Graphic Design <br>
+        => 3D Modelling, Game Design, etc. <br>
+        <strong> 🪻 LATEST ACHIEVEMENT </strong><br>
+        => 2025 National Codechum Competition Finalist
+      </p>
     </td>
   </tr>
-</table>
+</table>     
 
-##   Dekxi_py's Current Tech Stack !!
+---
+
+##  🛠️ dekxi_py's Current Tech Stack !!
 <p>
   <img src="https://img.shields.io/badge/FRONTEND-000000?style=for-the-badge">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -53,3 +57,20 @@
   <img src="https://img.shields.io/badge/Rojo-FF0000?style=for-the-badge&logo=roblox&logoColor=white">
   <img src="https://img.shields.io/badge/Roblox%20Studio-000000?style=for-the-badge&logo=roblox&logoColor=white">
 </p>
+
+##  🛠️ dekxi_py's Currently Learning !!
+
+<p>
+  <img src="https://img.shields.io/badge/LEARNING-000000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+</p>
+
+---
+
+- It's my longest wish to have more programmer friends! Don't hesitate to message me at discord miyuacchiii. 
+- I'm also open for collaborations! Let's grind well together!
+
