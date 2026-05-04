@@ -1,7 +1,6 @@
-
 <p>
-  <img src="banner2.gif" align="left" />
-  <span>
+  <img src="banner2.gif" width="50%" align="left" />
+  <span style="display:inline-block; width:48%;">
     <img src="https://github-readme-stats-fast.vercel.app/api?username=Dekxisosta&theme=nightowl" width="300" /><br/>
     <img src="https://leetcard.jacoblin.cool/Dekxi?theme=catppuccinMocha&font=ABeeZee&colors=%231a1a2e%2C%23c47ab5%2C%235ba8c4%2C%23e8a0c8%2C%239b6dbf%2C%23b8a0d4%2C%233d9db5%2C%23e87aaa" width="300" />
   </span>
