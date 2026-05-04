@@ -11,10 +11,11 @@
 <td valign="top" width="50%">
 <p>
   <img src="kangel.png" height="150" align="left" />
-  <blockquote>
+  <span>
+    <br>
     Got a cool idea or project in mind? I'm always open to collabs —
     hit me up on Discord <strong>@miyuacchiii</strong> and let's build something! 💮🌸
-  </blockquote>
+  </span>
 </p>
 </td>
 <td valign="top" width="50%">
