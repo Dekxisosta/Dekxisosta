@@ -22,6 +22,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-993556?style=flat&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-993556?style=flat&logo=bootstrap&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-993556?style=flat&logo=springboot&logoColor=white)
+![Javaswing](https://img.shields.io/badge/JavaSwing-993556?style=flat&logo=java&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/JavaFX-993556?style=flat&logo=java&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-993556?style=flat&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-993556?style=flat&logo=mysql&logoColor=white)
