@@ -1,0 +1,17 @@
+name: Keep Alive
+on:
+  schedule:
+    - cron: '0 12 * * *'
+jobs:
+  keepalive:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Auto commit
+        run: |
+          git config user.name "Dekxisosta"
+          git config user.email "rroquxii@gmail.com"
+          echo "$(date)" >> keepalive.txt
+          git add .
+          git commit -m "chore: 🌸 make it green"
+          git push
