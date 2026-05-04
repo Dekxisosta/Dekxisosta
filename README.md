@@ -1,6 +1,6 @@
 ![Banner](banner2.gif)
 
-# 🩷💮 shit builds shit 🌺🌷 #guybtw
+# 🩷💮 ✭ ✮ ✯ ✰ ⋆ shit builds shit ✰ ⋆ ꩜ ﹡ 🟊 🌺🌷
 
 ![Software Engineering](https://img.shields.io/badge/Software%20Engineering-F4C0D1?style=for-the-badge&logoColor=993556)
 ![Web Development](https://img.shields.io/badge/Web%20Development-F4C0D1?style=for-the-badge&logoColor=993556)
@@ -35,5 +35,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-993556?style=flat&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-993556?style=flat&logo=figma&logoColor=white)
 ![Roblox Studio](https://img.shields.io/badge/Roblox%20Studio-993556?style=flat&logo=roblox&logoColor=white)
+---
 
 
