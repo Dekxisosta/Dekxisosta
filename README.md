@@ -19,6 +19,7 @@
 </td>
 <td valign="top" width="50%">
 <span style="display:inline-block; width:100%;">
+  <br>
   <img src="https://img.shields.io/badge/SWE-6C8EBF?style=for-the-badge&logoColor=white" height="24"/>
   <img src="https://img.shields.io/badge/WebDev-B565A7?style=for-the-badge&logoColor=white" height="24"/>
   <img src="https://img.shields.io/badge/AppDev-48A999?style=for-the-badge&logoColor=white" height="24"/>
