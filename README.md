@@ -63,7 +63,7 @@
 </table>
 
 <div>
-  <h3>hi, i'm dekxi 🌸</h3>
+  <h2>Lil bio for Dekxisosta</h2>
   <p>
     cs student & aspiring SWE from the 🇵🇭 — i build for the web, desktop, and roblox. also a chibi artist with commissions open!
   </p>
