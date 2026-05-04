@@ -62,24 +62,6 @@
 </tr>
 </table>
 
-<div>
-  <h2>Lil bio for Dekxisosta</h2>
-  <p>
-    cs student & aspiring SWE from the 🇵🇭 — i build for the web, desktop, and roblox. also a chibi artist with commissions open!
-  </p>
-  <p>
-    <code>現在勉強中</code> &nbsp;·&nbsp;
-    <code>ソフトウェアエンジニア志望</code> &nbsp;·&nbsp;
-    <code>いつか自分のスタートアップを作りたい</code> &nbsp;·&nbsp;
-    <code>コードと絵の間で生きてる</code>
-  </p>
-  <p>
-    competing nationally &nbsp;·&nbsp;
-    studying at <strong>Pamantasan ng Cabuyao</strong> &nbsp;·&nbsp;
-    making things that look good and work well ✦
-  </p>
-</div>
-
 
 
 
