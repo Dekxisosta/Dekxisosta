@@ -2,10 +2,10 @@
 
 # 🩷💮 ✰ ⋆ ꩜ ﹡ 🟊 shit builds shit ✰ ⋆ ꩜ ﹡ 🟊 🌺🌷
 
-![Software Engineering](https://img.shields.io/badge/Software%20Engineering-B5D4F4?style=for-the-badge&logoColor=185FA5)
-![Web Development](https://img.shields.io/badge/Web%20Development-B5D4F4?style=for-the-badge&logoColor=185FA5)
-![App Development](https://img.shields.io/badge/App%20Development-B5D4F4?style=for-the-badge&logoColor=185FA5)
-![Game Development](https://img.shields.io/badge/Game%20Development-B5D4F4?style=for-the-badge&logoColor=185FA5)
+![Software Engineering](https://img.shields.io/badge/Software%20Engineering-F4C0D1?style=for-the-badge&logoColor=993556)
+![Web Development](https://img.shields.io/badge/Web%20Development-F4C0D1?style=for-the-badge&logoColor=993556)
+![App Development](https://img.shields.io/badge/App%20Development-F4C0D1?style=for-the-badge&logoColor=993556)
+![Game Development](https://img.shields.io/badge/Game%20Development-F4C0D1?style=for-the-badge&logoColor=993556)
 
 ![Java](https://img.shields.io/badge/Java-993556?style=flat&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-993556?style=flat&logo=python&logoColor=white)
