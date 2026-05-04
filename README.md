@@ -1,10 +1,11 @@
 <p>
-  <img src="banner2.gif" width="50%" align="left" />
+  <img src="banner2.gif" width="600" align="left" />
   <span style="display:inline-block; width:48%;">
     <img src="https://github-readme-stats-fast.vercel.app/api?username=Dekxisosta&theme=nightowl" width="300" /><br/>
     <img src="https://leetcard.jacoblin.cool/Dekxi?theme=catppuccinMocha&font=ABeeZee&colors=%231a1a2e%2C%23c47ab5%2C%235ba8c4%2C%23e8a0c8%2C%239b6dbf%2C%23b8a0d4%2C%233d9db5%2C%23e87aaa" width="300" />
   </span>
 </p>
+
 <table>
 <tr>
 <td valign="top" width="50%">
@@ -15,10 +16,9 @@
     hit me up on Discord <strong>@miyuacchiii</strong> and let's build something! 💮🌸
   </blockquote>
 </p>
-
 </td>
 <td valign="top" width="50%">
-<p>
+<span style="display:inline-block; width:100%;">
   <img src="https://img.shields.io/badge/SWE-6C8EBF?style=for-the-badge&logoColor=white" height="24"/>
   <img src="https://img.shields.io/badge/WebDev-B565A7?style=for-the-badge&logoColor=white" height="24"/>
   <img src="https://img.shields.io/badge/AppDev-48A999?style=for-the-badge&logoColor=white" height="24"/>
@@ -53,8 +53,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" height="18"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" height="18"/>
   <img src="https://img.shields.io/badge/Roblox%20Studio-000000?style=flat&logo=roblox&logoColor=white" height="18"/>
-</p>
-
+</span>
 </td>
 </tr>
 </table>
