@@ -1,10 +1,20 @@
-![Dekxi's Banner](banner2.gif)
 
+<p>
+  <img src="banner2.gif" align="left" />
+  <span>
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=Dekxisosta&theme=nightowl" width="300" /><br/>
+    <img src="https://leetcard.jacoblin.cool/Dekxi?theme=catppuccinMocha&font=ABeeZee&colors=%231a1a2e%2C%23c47ab5%2C%235ba8c4%2C%23e8a0c8%2C%239b6dbf%2C%23b8a0d4%2C%233d9db5%2C%23e87aaa" width="300" />
+  </span>
+</p>
 <table>
 <tr>
 <td valign="top" width="50%">
 <p>
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Dekxisosta&theme=synthwave" height="150" />
+  <img src="kangel.png" height="150" align="left" />
+  <blockquote>
+    Got a cool idea or project in mind? I'm always open to collabs —
+    hit me up on Discord <strong>@miyuacchiii</strong> and let's build something! 💮🌸
+  </blockquote>
 </p>
 
 </td>
