@@ -1,6 +1,6 @@
 ![Banner](banner2.gif)
 
-# 🩷💮 ✰ ⋆ ꩜ ﹡ shit builds shit, specifically good shit ✰ ⋆ ꩜ ﹡ 🌺🌷
+# 🩷💮 ✰ ⋆ ꩜ ﹡ shit builds good shit ✰ ⋆ ꩜ ﹡ 🌺🌷
 
 ![Software Engineering](https://img.shields.io/badge/Software%20Engineering-F4C0D1?style=for-the-badge&logoColor=993556)
 ![Web Development](https://img.shields.io/badge/Web%20Development-F4C0D1?style=for-the-badge&logoColor=993556)
