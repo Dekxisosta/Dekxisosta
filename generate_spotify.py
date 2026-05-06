@@ -105,6 +105,7 @@ def build_svg(tracks: list) -> str:
 
 if __name__ == "__main__":
     print("Fetching access token...")
+    print(f"Client ID length: {len(CLIENT_ID)}, Secret length: {len(CLIENT_SECRET)}")
     token  = get_access_token()
 
     print("Fetching recently played tracks...")
