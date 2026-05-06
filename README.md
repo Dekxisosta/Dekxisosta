@@ -7,8 +7,12 @@
   </span>
 </p>
 
-<p align="center">
-  <img src="https://spotify-readme-ruddy.vercel.app/api/spotify" alt="recently played"/>
+<p align="left">
+  <img src="https://spotify-readme-ruddy.vercel.app/api/leetcode" width="33%" alt="recently played"/>
+</p>
+
+<p align="left">
+  <img src="https://spotify-readme-ruddy.vercel.app/api/github" width="33%" alt="recently played"/>
 </p>
 
 <table>
