@@ -3,10 +3,13 @@
   <span style="display:inline-block; width:35%;">
     <img src="https://github-readme-stats-fast.vercel.app/api?username=Dekxisosta&theme=nightowl" width="300" /><br/>
     <img src="https://leetcard.jacoblin.cool/Dekxi?theme=catppuccinMocha&font=ABeeZee&colors=%231a1a2e%2C%23c47ab5%2C%235ba8c4%2C%23e8a0c8%2C%239b6dbf%2C%23b8a0d4%2C%233d9db5%2C%23e87aaa" width="300" />
+    
   </span>
 </p>
 
-
+<p align="center">
+  <img src="https://spotify-readme-ruddy.vercel.app/" alt="recently played"/>
+</p>
 
 <table>
 <tr>
@@ -61,8 +64,6 @@
 </td>
 </tr>
 </table>
-
-![Recently Played](spotify.svg)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-1a1a2e?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
 [![GitHub](https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
