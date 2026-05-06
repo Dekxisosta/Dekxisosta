@@ -1,28 +1,28 @@
 <p>
-  <img src="banner2.gif" width="60%" align="left" />
+  <img src="https://spotify-readme-ruddy.vercel.app/api/github" width="43%" alt="github stats"/>
+  
   <span style="display:inline-block; width:35%;">
+    <img src="banner2.gif" width="60%" align="left" />
     <img src="https://spotify-readme-ruddy.vercel.app/api/leetcode" width="33%" alt="recently played"/>
+    <img src="https://spotify-readme-ruddy.vercel.app/api/spotify" width="33%" alt="recently played"/>
   </span>
+  <p align="left">
+  
+  </p>
 </p>
 
-<p align="left">
-  <img src="https://spotify-readme-ruddy.vercel.app/api/spotify" width="55%" alt="recently played"/>
-  <img src="https://spotify-readme-ruddy.vercel.app/api/github" width="43%" alt="github stats"/>
-</p>
+
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="30%">
 <p>
-  <img src="kangel.png" height="150" align="left" />
-  <span>
+  <img src="kangel.png" height="150" />
     <br>
-    Got a cool idea or project in mind? I'm always open to collabs —
-    hit me up on Discord <strong>@miyuacchiii</strong> and let's build something! 💮🌸
-  </span>
+    up for collabs! @miyuacchii
 </p>
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="70%">
 <span style="display:inline-block; width:100%;">
   <br>
   <img src="https://img.shields.io/badge/SWE-6C8EBF?style=for-the-badge&logoColor=white" height="24"/>
@@ -59,15 +59,19 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" height="18"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" height="18"/>
   <img src="https://img.shields.io/badge/Roblox%20Studio-000000?style=flat&logo=roblox&logoColor=white" height="18"/>
+  <br>
+  
+  [![Portfolio](https://img.shields.io/badge/Portfolio-1a1a2e?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+  [![Discord](https://img.shields.io/badge/Discord-1a1a2e?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/yourid)
+  [![Email](https://img.shields.io/badge/Email-1a1a2e?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+  
 </span>
 </td>
 </tr>
 </table>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-1a1a2e?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
-[![GitHub](https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
-[![Discord](https://img.shields.io/badge/Discord-1a1a2e?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/yourid)
-[![Email](https://img.shields.io/badge/Email-1a1a2e?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+
 
 
 
