@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://spotify-readme-ruddy.vercel.app/" alt="recently played"/>
+  <img src="https://spotify-readme-ruddy.vercel.app/api/spotify" alt="recently played"/>
 </p>
 
 <table>
