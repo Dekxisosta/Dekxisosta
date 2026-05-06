@@ -62,6 +62,8 @@
 </tr>
 </table>
 
+![Recently Played](spotify.svg)
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-1a1a2e?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
 [![GitHub](https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
 [![Discord](https://img.shields.io/badge/Discord-1a1a2e?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/yourid)
