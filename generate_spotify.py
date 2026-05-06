@@ -38,17 +38,12 @@ def get_recently_played(token):
     tracks = []
     for item in items:
         track   = item["track"]
-        played  = item["played_at"]  # ISO 8601
+        played  = item["played_at"]
         name    = track["name"]
         artist  = ", ".join(a["name"] for a in track["artists"])
         img_url = track["album"]["images"][-1]["url"]  # smallest image
         tracks.append({"name": name, "artist": artist, "img_url": img_url, "played_at": played})
     return tracks
-
-def fetch_image_b64(url: str) -> str:
-    with urllib.request.urlopen(url) as res:
-        raw = res.read()
-    return base64.b64encode(raw).decode()
 
 def time_ago(iso: str) -> str:
     played = datetime.fromisoformat(iso.replace("Z", "+00:00"))
@@ -64,37 +59,36 @@ def time_ago(iso: str) -> str:
     d = diff // 86400
     return f"{d} day{'s' if d != 1 else ''} ago"
 
-ROW_H    = 72  
+ROW_H    = 72
 PADDING  = 24
 IMG_SIZE = 48
-TOP      = 52 
+TOP      = 52
 
-def truncate(text: str, limit: int = 30) -> str:
+def truncate(text: str, limit: int = 28) -> str:
     return text if len(text) <= limit else text[:limit - 1] + "…"
 
 def build_svg(tracks: list) -> str:
     height = TOP + len(tracks) * ROW_H + PADDING
 
+    clip_defs = "".join(
+        f'<clipPath id="clip{i}"><rect x="0" y="0" width="{IMG_SIZE}" height="{IMG_SIZE}" rx="6"/></clipPath>'
+        for i in range(len(tracks))
+    )
+
     rows = ""
     for i, t in enumerate(tracks):
-        y      = TOP + i * ROW_H
-        img_b64 = fetch_image_b64(t["img_url"])
+        y        = TOP + i * ROW_H
         dot_fill = "#f0a8d0" if i == 0 else "#9b7cb8"
 
         rows += f"""
   <line x1="{PADDING}" y1="{y}" x2="{680 - PADDING}" y2="{y}" stroke="#2d1f45" stroke-width="0.5"/>
   <g transform="translate({PADDING},{y + 12})">
-    <image href="data:image/jpeg;base64,{img_b64}" x="0" y="0" width="{IMG_SIZE}" height="{IMG_SIZE}" clip-path="url(#clip{i})"/>
-    <text x="64" y="16"  font-family="sans-serif" font-size="13" font-weight="600" fill="#f5e6ff">{truncate(t['name'])}</text>
-    <text x="64" y="32"  font-family="sans-serif" font-size="11" fill="#c9a8e0">{truncate(t['artist'], 35)}</text>
-    <text x="64" y="46"  font-family="sans-serif" font-size="10" fill="#9b7cb8">{time_ago(t['played_at'])}</text>
+    <image href="{t['img_url']}" x="0" y="0" width="{IMG_SIZE}" height="{IMG_SIZE}" clip-path="url(#clip{i})"/>
+    <text x="64" y="16" font-family="sans-serif" font-size="13" font-weight="600" fill="#f5e6ff">{truncate(t['name'])}</text>
+    <text x="64" y="32" font-family="sans-serif" font-size="11" fill="#c9a8e0">{truncate(t['artist'], 35)}</text>
+    <text x="64" y="46" font-family="sans-serif" font-size="10" fill="#9b7cb8">{time_ago(t['played_at'])}</text>
     <circle cx="{680 - PADDING * 2}" cy="24" r="3" fill="{dot_fill}"/>
   </g>"""
-
-    clip_defs = "".join(
-        f'<clipPath id="clip{i}"><rect x="0" y="0" width="{IMG_SIZE}" height="{IMG_SIZE}" rx="6"/></clipPath>'
-        for i in range(len(tracks))
-    )
 
     return f"""<svg width="680" height="{height}" viewBox="0 0 680 {height}" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>{clip_defs}</defs>
@@ -105,7 +99,6 @@ def build_svg(tracks: list) -> str:
 
 if __name__ == "__main__":
     print("Fetching access token...")
-    print(f"Client ID length: {len(CLIENT_ID)}, Secret length: {len(CLIENT_SECRET)}")
     token  = get_access_token()
 
     print("Fetching recently played tracks...")
