@@ -1,13 +1,17 @@
 
+<p align="center">
+  <img src="banner2.gif" width="60%"/>
+</p>
+
 <p>
-  <img src="banner2.gif" width="60%" align="left" />
   <img src="https://spotify-readme-ruddy.vercel.app/api/leetcode" width="33%" alt="recently played"/>
+  <img src="https://spotify-readme-ruddy.vercel.app/api/github" width="48%" alt="recently played"/> &nbsp; &nbsp; &nbsp; &nbsp; 
 </p>
 <br>
 <br>
 <p align="left">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="https://spotify-readme-ruddy.vercel.app/api/github" width="48%" alt="recently played"/> &nbsp; &nbsp; &nbsp; &nbsp; 
+  
   <img src="https://spotify-readme-ruddy.vercel.app/api/spotify" width="38%" alt="recently played"/>
 </p>
 
