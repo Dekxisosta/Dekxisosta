@@ -20,8 +20,12 @@ def get_access_token():
         data=data,
         headers={"Authorization": f"Basic {credentials}", "Content-Type": "application/x-www-form-urlencoded"},
     )
-    with urllib.request.urlopen(req) as res:
-        return json.loads(res.read())["access_token"]
+    try:
+        with urllib.request.urlopen(req) as res:
+            return json.loads(res.read())["access_token"]
+    except urllib.error.HTTPError as e:
+        print("Spotify error:", e.read().decode())
+        raise
 
 def get_recently_played(token):
     req = urllib.request.Request(
