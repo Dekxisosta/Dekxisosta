@@ -4,10 +4,10 @@
   <img src="https://spotify-readme-ruddy.vercel.app/api/spotify" width="28%" alt="Spotify"/>
 </p>
 
-<p>
-  <img src="https://spotify-readme-ruddy.vercel.app/api/github" width="43%" alt="Github stats"/> &nbsp; &nbsp;
-  <img src="https://spotify-readme-ruddy.vercel.app/api/codewars" width="23%" alt="Codewars stats"/> &nbsp; &nbsp;
-  <img src="https://spotify-readme-ruddy.vercel.app/api/leetcode" width="25%" alt="Leetcode stats"/>
+<p align="center">
+  <img src="https://spotify-readme-ruddy.vercel.app/api/leetcode" width="29%" alt="Leetcode stats"/> &nbsp; &nbsp;
+  <img src="https://spotify-readme-ruddy.vercel.app/api/github" width="23%" alt="Github stats"/> &nbsp; &nbsp;
+  <img src="https://spotify-readme-ruddy.vercel.app/api/codewars" width="25%" alt="Codewars stats"/>
 </p>
 <br>
 <br>
