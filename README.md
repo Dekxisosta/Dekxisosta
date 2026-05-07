@@ -1,7 +1,7 @@
 <p align="center">
-  <a href="mailto:rroquxii@gmail.com"><img src="https://img.shields.io/badge/Dekxisosta-6B9FCC?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://dxlinks.vercel.app/"><img src="https://img.shields.io/badge/Dekxisosta-6B9FCC?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   &nbsp;
-  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-6B9FCC?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-6B9FCC?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   &nbsp;
   <a href="https://github.com/Dekxisosta"><img src="https://img.shields.io/badge/GitHub-6B9FCC?style=for-the-badge&logo=github&logoColor=white"/></a>
   &nbsp;
