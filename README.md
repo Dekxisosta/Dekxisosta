@@ -10,15 +10,15 @@
   <a href="mailto:rroquxii@gmail.com"><img src="https://img.shields.io/badge/Email-6B9FCC?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 <p align="center">
-  <a href="#-open-for"><img src="https://img.shields.io/badge/💼-Open%20For-4a6e8a?style=for-the-badge&labelColor=2a3d4a&logoColor=white"/></a>
+  <a href="#open-for"><img src="https://img.shields.io/badge/💼-Open%20For-4a6e8a?style=for-the-badge&labelColor=2a3d4a&logoColor=white"/></a>
   &nbsp;
-  <a href="#-collaboration-requests"><img src="https://img.shields.io/badge/🤝-Collaboration-4a6e8a?style=for-the-badge&labelColor=2a3d4a&logoColor=white"/></a>
+  <a href="#collaboration-requests"><img src="https://img.shields.io/badge/🤝-Collaboration-4a6e8a?style=for-the-badge&labelColor=2a3d4a&logoColor=white"/></a>
   &nbsp;
-  <a href="#️-tech-stack"><img src="https://img.shields.io/badge/🛠️-Tech%20Stack-4a6e8a?style=for-the-badge&labelColor=2a3d4a&logoColor=white"/></a>
+  <a href="#️tech-stack"><img src="https://img.shields.io/badge/🛠️-Tech%20Stack-4a6e8a?style=for-the-badge&labelColor=2a3d4a&logoColor=white"/></a>
   &nbsp;
   <a href="https://github.com/Dekxisosta?tab=repositories"><img src="https://img.shields.io/badge/📌-Repositories-4a6e8a?style=for-the-badge&labelColor=2a3d4a&logoColor=white"/></a>
   &nbsp;
-  <a href="#️-disclaimer"><img src="https://img.shields.io/badge/⚠️-Disclaimer-4a6e8a?style=for-the-badge&labelColor=2a3d4a&logoColor=white"/></a>
+  <a href="#️disclaimer"><img src="https://img.shields.io/badge/⚠️-Disclaimer-4a6e8a?style=for-the-badge&labelColor=2a3d4a&logoColor=white"/></a>
 </p>
 
 ---
