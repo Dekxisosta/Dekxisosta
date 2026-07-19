@@ -1,15 +1,6 @@
 
 <p align="center">
   <img src="/ishmael.gif" width="20%" alt="Spotify"/>
-  &nbsp;
-  &nbsp;
-  &nbsp;
-  &nbsp;
-  &nbsp;
-  &nbsp;
-  &nbsp;
-  &nbsp;
-  <img src="https://spotify-readme-ruddy.vercel.app/api/spotify" width="35%" alt="Spotify"/>
 </p>
 
 # Disclaimer !!
